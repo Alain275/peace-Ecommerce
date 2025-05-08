@@ -1,3 +1,8 @@
+/** And here you forget to import tailwind **/
+@import "tailwindcss";
+@import "tailwindcss/preflight";
+@tailwind utilities;
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
