@@ -1,3 +1,4 @@
+/** And here you forget to import tailwind **/
 @import "tailwindcss";
 @import "tailwindcss/preflight";
 @tailwind utilities;

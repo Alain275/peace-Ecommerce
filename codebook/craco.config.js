@@ -1,6 +1,8 @@
 const path = require('path');
 
 module.exports = {
+  
+  //When CRACO isn’t picking up some postcss configuration, you  inline them into this  craco.config.js file.
   style: {
     postcss: {
       plugins: [
